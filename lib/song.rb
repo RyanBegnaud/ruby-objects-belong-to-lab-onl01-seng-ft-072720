@@ -1,3 +1,3 @@
 class Song 
-  def initialize(name)
+  def initialize(title)
     @name = name 
